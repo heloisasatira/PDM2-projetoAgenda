@@ -1,0 +1,15 @@
+{
+  "name": "pdm2-projetoagenda",
+  "version": "1.0.0",
+  "description": "Minha agenda pessoal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "Heloisa",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
