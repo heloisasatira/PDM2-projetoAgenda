@@ -12,6 +12,7 @@ table{
     border-collapse: collapse;
     align-items: center;
     justify-content: center;
+    width: 100%;
 }
 
 html{

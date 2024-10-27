@@ -22,6 +22,6 @@
     "lang": "pt-BR",
     "start_url": "/index.html",
     "display": "standalone",
-    "background _color": "white",
+    "background_color": "white",
     "theme_color": "white"
 }

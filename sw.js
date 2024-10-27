@@ -1,5 +1,5 @@
 let cacheName = "minha-agenda";
-let filesToCache = ["/", "/index.html", "/index2.html", "/index3.html", "/css/style.css", "/js/main.js"];
+let filesToCache = ["/", "/index.html", "/pages/index2.html", "/pages/index2","/pages/index3.html", "/pages/index3",, "/index3.html", "/css/style.css", "/js/main.js"];
 
 self.addEventListener("install", (e) => {
     e.waitUntil(
